@@ -1,0 +1,5 @@
+{
+  "name": "Vāc — Sanskrit Translator & Challenges",
+  "description": "A refined Sanskrit translator with daily language challenges and voice support.",
+  "requestFramePermissions": ["microphone"]
+}
